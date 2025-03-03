@@ -5,7 +5,6 @@
 ##### Backend Developer 
 -->
 </br>
-</br>
 
 <a href="https://muerha.tistory.com">
   <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=">
@@ -54,6 +53,8 @@
 <!--
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:add1e1&height=180&section=footer)
 -->
+
+</br>
 
 </div>
 
